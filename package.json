@@ -1,5 +1,5 @@
 {
-  "name": "graphlib",
+  "name": "@ausuliv/graphlib",
   "version": "2.1.8",
   "description": "A directed and undirected multi-graph library",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
@@ -42,6 +42,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dagrejs/graphlib.git"
+    "url": "https://github.com/wise-king-sullyman/graphlib.git"
   }
 }
